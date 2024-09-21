@@ -19,6 +19,10 @@ VidGPT is an AI-powered application that allows users to interact with YouTube v
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) - To extract transcripts from YouTube.
 - [Streamlit](https://streamlit.io/) - For the interactive web interface.
 
+### Demo 
+
+![Screenshot 2024-09-21 152825](https://github.com/user-attachments/assets/4bd65812-ad3d-44b9-a324-4ea604f4caeb)
+
 ## Setup and Installation
 
 ### 1. Clone the Repository
