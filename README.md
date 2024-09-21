@@ -1,6 +1,6 @@
 # VidGPT: AI Chat with YouTube Content
 
-VidGPT is an AI-powered application that allows users to interact with YouTube video transcripts by asking questions and receiving concise answers. The system extracts video transcripts from YouTube, processes the transcript using a transformer model to generate embeddings, indexes the chunks with FAISS for fast retrieval, and uses a summarization model to generate clear answers to the user's questions.
+VidGPT is a BASIC AI-powered application that allows users to interact with YouTube video transcripts by asking questions and receiving concise answers. The system extracts video transcripts from YouTube, processes the transcript using a transformer model to generate embeddings, indexes the chunks with FAISS for fast retrieval, and uses a summarization model to generate clear answers to the user's questions.
 
 ## Features
 
